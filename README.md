@@ -2,8 +2,8 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning CSA
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me (bat signal)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: Bat signal (Batman)
+- 😄 Pronouns: Him.
 - ⚡ Fun fact: My teacher is involved in insider trading
 
 <!---
